@@ -9,7 +9,7 @@
 ### 개발 환경
 > Python 3.12.6 (venv)<br>
 > Pytorch 2.4.1 + CUDA 12.4<br>
-> GTX1060 6GB<br>
+> RTX4050 Laptop<br>
 <br>
 
 ### 설명
